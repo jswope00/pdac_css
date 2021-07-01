@@ -1,0 +1,138 @@
+<style type="text/css">
+  
+  p, 
+  .a--course-content__main-content .course-content p,
+  h1, 
+  .a--course-content__main-content .course-content h2, 
+  h2,
+  .a--course-content__main-content .course-content p h2, 
+  h3,
+  .a--course-content__main-content .course-content h3,
+  h4,
+  .a--course-content__main-content .course-content h4,
+  h5, 
+  .a--course-content__main-content .course-content h5{
+  
+}
+  
+  h2.unit-title,
+  .xblock .xblock h2.unit-title {
+    color: #474747;
+    margin: 0;
+}
+  
+  h3,
+  .a--course-content__main-content .course-content h3,
+  .xmodule_display.xmodule_HtmlBlock h3
+  {
+	padding: 10px; 
+	background: #023c5b; 
+	color: #fff; 
+	font-weight: bold;
+    font-size: 24px;
+}
+  .section-header h3,
+  .subsection-header h3,
+  .unit-header h3 {
+    padding: inherit;
+    background: inherit;
+    color: inherit;
+    font-weight: inherit;
+    font-size: inherit;
+  }
+
+  h3.problem-header,
+  .title h3,
+  .course-wrapper .course-content .xblock h3.hd-2,
+  .hd-3.discussion-module-title {
+    padding: 0px;
+    background: none;
+  }
+  
+  h4,
+  .a--course-content__main-content .course-content h4,
+  .xmodule_display.xmodule_HtmlBlock h4
+  {
+    color: #575757;
+    font-weight: 700;
+    font-size: 1.2em;
+  }
+  
+  .callout {
+    padding: 20px 20px 1px 20px;
+    background: #f2f2f2;
+  }
+  
+  
+  .bookmark-button-wrapper,
+  .course-content .bookmark-button-wrapper {
+    margin: 0px; 
+}
+  
+  .content-wrapper .btn.bookmark-button {
+  font-size: 14px;
+}
+  
+  .a--course-content__main-content .course-content #seq_content {
+    padding-top: 0px;
+}
+  
+  @media (min-width: 768px) {
+    img,
+    .xmodule_display.xmodule_HtmlModule img
+    .xmodule_display.xmodule_HtmlBlock img {
+      max-width: 60%;
+      margin: 0px 20% 0px 20%;
+      height: auto;
+    }
+    
+    img.img-small,
+    .xmodule_display.xmodule_HtmlModule img.img-small,
+    .xmodule_display.xmodule_HtmlBlock img.img-small {
+    max-width: 200px;
+    }
+    
+    img.img-medium,
+    .xmodule_display.xmodule_HtmlModule img.img-medium,
+    .xmodule_display.xmodule_HtmlBlock img.img-medium {
+    max-width: 400px;
+    }
+    
+    img.img-large,
+    .xmodule_display.xmodule_HtmlModule img.img-large,
+    .xmodule_display.xmodule_HtmlBlock img.img-large {
+      max-width: 100%;
+      width: 100%;
+      margin: 0;
+    }
+  }
+  
+    img .float-right,
+  .xmodule_display.xmodule_HtmlModule img.float-right,
+  .xmodule_display.xmodule_HtmlBlock img.float-right
+  {
+    float: right;
+    margin: 0px 0px 20px 20px;
+  }
+  
+  img .float-right::after,
+  .xmodule_display.xmodule_HtmlModule img.float-right:after,
+  .xmodule_display.xmodule_HtmlBlock img.float-right:after {
+    clear: both;
+  }
+  
+  img .float-left,
+  .xmodule_display.xmodule_HtmlModule img.float-left,
+  .xmodule_display.xmodule_HtmlBlock img.float-left{
+    float: left;
+    margin: 0px 20px 20px 0;
+  }
+  
+  img .float-left::after,
+  .xmodule_display.xmodule_HtmlModule img.float-left:after,
+  .xmodule_display.xmodule_HtmlBlock img.float-left:after{
+    clear: both;
+  }
+  
+
+  </style>
